@@ -1,3 +1,4 @@
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 """
 Django settings for Eshop project.
 
